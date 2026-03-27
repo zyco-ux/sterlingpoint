@@ -1,0 +1,28 @@
+  <div class="admin-panel" id="adminPanel" style="display: none;">
+                                <div class="admin-header">
+                                    <i class="fas fa-user-shield"></i>
+                                    <h2 class="section-title">Admin Panel</h2>
+                                </div>
+                                <div class="admin-actions">
+                                    <button class="admin-btn" id="manageUsersBtn">
+                                        <i class="fas fa-users"></i>
+                                        <span>Manage Users</span>
+                                    </button>
+                                    <button class="admin-btn" id="manageAccountsBtn">
+                                        <i class="fas fa-university"></i>
+                                        <span>Manage Accounts</span>
+                                    </button>
+                                    <button class="admin-btn" id="transactionsAdminBtn">
+                                        <i class="fas fa-exchange-alt"></i>
+                                        <span>All Transactions</span>
+                                    </button>
+                                    <button class="admin-btn" id="systemSettingsBtn">
+                                        <i class="fas fa-cogs"></i>
+                                        <span>System Settings</span>
+                                    </button>
+                                    <button class="admin-btn" id="editBalancesBtn">
+                                        <i class="fas fa-dollar-sign"></i>
+                                        <span>Edit Balances</span>
+                                    </button>
+                                </div>
+                            </div>
